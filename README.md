@@ -18,4 +18,4 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno A: Diego Rodrigues Carvalho(owner), Aluno B: Ícaro Nepomuceno Rocha , Aluno C: Samara Ferreira de Castro.
